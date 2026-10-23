@@ -22,13 +22,12 @@ Get the zips from **[Releases](../../releases)**. Each one is separate; only get
 | **Codeware** | Extra scripting tools many script mods use | If your mods need it |
 
 ### What's in each build
-
 | Build | Based on | Changes |
 |---|---|---|
 | RED4ext | official source, master `47ac01c` (2.5 support merged, not yet released) | none, compiled as is |
-| ArchiveXL 1.27.5 | official 1.27.5 | new 2.5 port ([diff](source/ArchiveXL-2.5-port.diff)) |
-| TweakXL 1.11.5 | official 1.11.5 + KelpHect's PR [#22](https://github.com/psiberx/cp2077-tweak-xl/pull/22) | build fix only ([diff](source/TweakXL-on-PR22.diff)) |
-| Codeware 1.20.6 | official 1.20.6 + KelpHect's PR [#63](https://github.com/psiberx/cp2077-codeware/pull/63) | build fix only ([diff](source/Codeware-on-PR63.diff)) |
+| ArchiveXL 1.27.5 | official 1.27.5 | new 2.5 port |
+| TweakXL 1.11.5 | official 1.11.5 + KelpHect's PR [#22](https://github.com/psiberx/cp2077-tweak-xl/pull/22) | build fix only |
+| Codeware 1.20.6 | official 1.20.6 + KelpHect's PR [#63](https://github.com/psiberx/cp2077-codeware/pull/63) | build fix only |
 
 ## Requirements
 
@@ -100,15 +99,6 @@ The release also has an optional **`NOTES-FOR-MODDERS-source-and-tools-2.5-unoff
 on what 2.5 changed and how it was fixed, diffs of every source change, and the research scripts used for the port
 (unsupported). It isn't needed to play.
 
-
-| Build | Based on | Changes |
-|---|---|---|
-| RED4ext | official source, master `47ac01c` (2.5 support merged, not yet released) | none, compiled as is |
-| ArchiveXL 1.27.5 | official 1.27.5 | new 2.5 port |
-| TweakXL 1.11.5 | official 1.11.5 + KelpHect's PR [#22](https://github.com/psiberx/cp2077-tweak-xl/pull/22) | build fix only |
-| Codeware 1.20.6 | official 1.20.6 + KelpHect's PR [#63](https://github.com/psiberx/cp2077-codeware/pull/63) | build fix only |
-
-The source changes are in the mod-author zip (see below).
 
 ## Credits and licenses
 
